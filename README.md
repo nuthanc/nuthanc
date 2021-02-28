@@ -18,4 +18,4 @@ Here are some ideas to get you started:
 ## 🤔 Where to find me?
 
 [![Follow on Twitter](https://img.shields.io/twitter/follow/nuthanchandra19.svg?logo=twitter)](https://twitter.com/nuthanchandra19)
-[![Linkedin Badge](https://img.shields.io/badge/-Deepak%20Chethan-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nuthanchandra-n/)](https://www.linkedin.com/in/nuthanchandra-n/)
+[![Linkedin Badge](https://img.shields.io/badge/-Nuthan%20Chandra-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nuthanchandra-n/)](https://www.linkedin.com/in/nuthanchandra-n/)
