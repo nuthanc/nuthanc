@@ -15,6 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <p>
-</a> <a href=”https://twitter.com/YOUR.USERNAM" target=”_blank”><img alt=”Twitter” src=”https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a>
-<a href=”https://www.linkedin.com/in/YOUR.USERNAME/" target=”_blank”><img alt=”LinkedIn” src=”https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+<a href=”https://twitter.com/nuthanchandra19" target=”_blank”><img alt=”Twitter” src=”https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a>
+<a href=”https://www.linkedin.com/in/nuthanchandra-n/" target=”_blank”><img alt=”LinkedIn” src=”https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
 </p>
