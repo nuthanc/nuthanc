@@ -15,4 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <p>
-<a href=”https://twitter.com/nuthanchandra19" target=”_blank”>Go to my Twitter</a>
+  <a href="https://twitter.com/nuthanchandra19" target="_blank">Go to my Twitter handle</a>
+</p>
