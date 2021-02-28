@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+## 🤔 Where to find me?
+
+[![Follow on Twitter](https://img.shields.io/twitter/follow/nuthanchandra19.svg?logo=twitter)](https://twitter.com/nuthanchandra19)
+[![Linkedin Badge](https://img.shields.io/badge/-Deepak%20Chethan-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/dpak-chtan/)](https://www.linkedin.com/in/nuthanchandra-n/)
