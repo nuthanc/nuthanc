@@ -14,12 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-<p align=”center”>
-<img align=”center” src=”https://github-readme-stats.vercel.app/api/top-langs/?username=nuthanc&layout=compact&theme=vue&langs_count=6" alt=”My github stats”/>
-</p>
 <p>
-<a href=”https://github.com/nuthanc" target=”_blank”><img alt=”Github” src=”https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" />
-</a> <a href=”https://twitter.com/nuthanchandra19" target=”_blank”><img alt=”Twitter” src=”https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a>
-<a href=”https://www.linkedin.com/in/nuthanchandra-n/" target=”_blank”><img alt=”LinkedIn” src=”https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+</a> <a href=”https://twitter.com/YOUR.USERNAM" target=”_blank”><img alt=”Twitter” src=”https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a>
+<a href=”https://www.linkedin.com/in/YOUR.USERNAME/" target=”_blank”><img alt=”LinkedIn” src=”https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
 </p>
