@@ -11,7 +11,6 @@
 - **Databases**: MySQL, MongoDB  
 - **Other Expertise**: Microservices Architecture, Event Bus, Google OAuth  
 
----
 
 ## 🌟 Projects
 
@@ -26,7 +25,6 @@ A distributed e-commerce platform for ticket sales built with a microservices ar
 - Scalable Kubernetes deployments  
 - Versioning system for concurrency management
 
----
 
 ## 🎸 Hobbies & Interests
 - Guitar 🎵  
@@ -34,7 +32,6 @@ A distributed e-commerce platform for ticket sales built with a microservices ar
 - Foosball  
 - Kdramas & English TV Series 📺  
 
----
 
 ## 📫 Let's Connect!
 
