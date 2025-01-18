@@ -2,7 +2,6 @@
 
 🚀 Passionate about crafting seamless web experiences, solving complex problems, and building scalable systems. As a seasoned **Frontend Developer** with 5+ years of professional experience, I specialize in **Angular**, **React**, and **TypeScript**, among other technologies. I thrive in environments where innovation meets collaboration, and I'm always eager to learn and grow.
 
----
 
 ## 🔧 Technologies & Skills
 
