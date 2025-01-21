@@ -37,7 +37,8 @@ A distributed e-commerce platform for ticket sales built with a microservices ar
 
 - **Email**: [nuthanchandra1997@gmail.com](mailto:nuthanchandra1997@gmail.com)  
 - **GitHub**: [nuthanc](https://github.com/nuthanc)
-- [![Follow on Twitter](https://img.shields.io/twitter/follow/nuthanchandra19.svg?logo=twitter)](https://twitter.com/nuthanchandra19)
-- [![Linkedin Badge](https://img.shields.io/badge/-Nuthan%20Chandra-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nuthanchandra-n/)](https://www.linkedin.com/in/nuthanchandra-n/)
+
+[![Follow on Twitter](https://img.shields.io/twitter/follow/nuthanchandra19.svg?logo=twitter)](https://twitter.com/nuthanchandra19)
+[![Linkedin Badge](https://img.shields.io/badge/-Nuthan%20Chandra-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nuthanchandra-n/)](https://www.linkedin.com/in/nuthanchandra-n/)
 
 Feel free to check out my projects, and don’t hesitate to collaborate or share feedback. Let's create something amazing together! 🌟
