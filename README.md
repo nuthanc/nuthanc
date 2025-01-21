@@ -31,7 +31,7 @@ A distributed e-commerce platform for ticket sales built with a microservices ar
 ## 🎸 Hobbies & Interests
 - Guitar 🎵  
 - Cricket 🏏  
-- Foosball  
+- Chess  
 - Kdramas & English TV Series 📺  
 
 
