@@ -16,7 +16,9 @@
 
 ### 🎥 [Streaming App](https://github.com/nuthanc/react/tree/master/streams)
 A real-time video streaming and recording app built with React, OBS, and RTMP protocol.  
-**Highlights**: Secure Google OAuth authentication, Redux-based state management.
+**Highlights**: 
+- Secure Google OAuth authentication
+- Redux-based state management.
 
 ### 🎫 [Ticketing App](https://github.com/nuthanc/microservice/tree/master/ticketing)
 A distributed e-commerce platform for ticket sales built with a microservices architecture.  
